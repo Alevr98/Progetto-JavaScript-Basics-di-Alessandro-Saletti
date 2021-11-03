@@ -8,12 +8,12 @@
 
 * [DESCRIPTION](#description)
 * [COUNTER FEATURES](#counter-features)
-* [CONTACT ME] (#contact-me)
+* [CONTACT ME](#contact-me)
 
 
 
 ### DESCRIPTION
-In this project i realised a counter, the majority of the code is based on Javascript but i used part of HTML to develop the structure and CSS for graphical aspects.
+In this project I realised a counter, the majority of the code is based on Javascript but I used part of HTML to develop the structure and CSS for graphical aspects.
 
 ---
 
@@ -22,8 +22,8 @@ In this project i realised a counter, the majority of the code is based on Javas
 ![counter](https://user-images.githubusercontent.com/88582424/140183862-cc386bfd-aea5-4d28-9b00-2c385ee08e21.png)
 
 
-Togheter with the counter i created two buttons that can increase and decrease the value. I added also a "reset button" that turns the counter value to zero.
-Once the value is greater than zero, the number change the color to green, otherwise if it's lower than zero, it'll turns red.
+In addition to the counter I created two buttons that can increase and decrease the value. I added also a "reset button" that turns the counter value to zero.
+Once the value is greater than zero, the number changes the colour to green, otherwise if it's lower than zero, it turns red.
 
 ---
 
