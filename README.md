@@ -4,12 +4,19 @@
 
 ---
 
-## DESCRIPTION
+## CONTENTS
+
+* [DESCRIPTION](#description)
+* [COUNTER FEATURES](#counter-features)
+
+
+
+### DESCRIPTION
 In this project i realised a counter, the majority of the code is based on Javascript and i contains some parts of HTML and CSS as well.
 
 ---
 
-##COUNTER FEATURES
+### COUNTER FEATURES
 
 ![counter](https://user-images.githubusercontent.com/88582424/140183862-cc386bfd-aea5-4d28-9b00-2c385ee08e21.png)
 
