@@ -13,7 +13,7 @@
 
 
 ### DESCRIPTION
-In this project I realised a counter, the majority of the code is based on Javascript but I used part of HTML to develop the structure and CSS for graphical aspects.
+In this project I realised a counter; the majority of the code is based on Javascript but I used part of HTML to develop the structure and CSS for graphical aspects.
 
 ---
 
