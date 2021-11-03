@@ -8,11 +8,12 @@
 
 * [DESCRIPTION](#description)
 * [COUNTER FEATURES](#counter-features)
+* [CONTACT ME] (#contact-me)
 
 
 
 ### DESCRIPTION
-In this project i realised a counter, the majority of the code is based on Javascript and i contains some parts of HTML and CSS as well.
+In this project i realised a counter, the majority of the code is based on Javascript but i used part of HTML to develop the structure and CSS for graphical aspects.
 
 ---
 
@@ -22,4 +23,9 @@ In this project i realised a counter, the majority of the code is based on Javas
 
 
 Togheter with the counter i created two buttons that can increase and decrease the value. I added also a "reset button" that turns the counter value to zero.
-Once the value is greater than zero, the number change the color to green, otherwise if it's lower than zero it'll turns red.
+Once the value is greater than zero, the number change the color to green, otherwise if it's lower than zero, it'll turns red.
+
+---
+
+### CONTACT ME 
+Please feel free to contact me for any information or check out my web site for more details --> https://alevr98.github.io/Alessandro-Saletti---HTML-e-CSS/
