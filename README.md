@@ -13,7 +13,7 @@
 
 
 ### DESCRIPTION
-In this project I realised a counter: the majority of the code is based on Javascript but I used part of HTML to develop the structure and CSS for graphical aspects.
+In this project I realised a counter, the majority of the code is based on Javascript but I used part of HTML to develop the structure and CSS for graphical aspects.
 
 ---
 
@@ -22,7 +22,7 @@ In this project I realised a counter: the majority of the code is based on Javas
 ![counter](https://user-images.githubusercontent.com/88582424/140183862-cc386bfd-aea5-4d28-9b00-2c385ee08e21.png)
 
 
-In addition to the counter I created two buttons that can increase and decrease the value. I added also a "reset button" that turns the counter value to zero.
+In addition to the counter, I created two buttons that can increase and decrease the value. I realised also a "reset button" that turns the counter value to zero.
 Once the value is greater than zero, the number changes the colour to green, otherwise if it's lower than zero, it turns red.
 
 ---
