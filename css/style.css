@@ -91,3 +91,18 @@ main {
     color: #333;
     transition: .3s ease-in;
 }
+
+/* Media queries */
+
+@media screen and (max-width:489px) {
+    .container{
+        height: 70%;
+        width: 80%;
+    }
+    .plus-button, .minus-button {
+        margin: 0.5rem;
+    }
+    .reset {
+        margin: 0;
+    }
+}
