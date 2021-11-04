@@ -19,7 +19,7 @@ In this project I realised a counter, the majority of the code is based on Javas
 
 ### COUNTER FEATURES
 
-<div align="center"> ![counter](https://user-images.githubusercontent.com/88582424/140183862-cc386bfd-aea5-4d28-9b00-2c385ee08e21.png) </div>
+![counter](https://user-images.githubusercontent.com/88582424/140183862-cc386bfd-aea5-4d28-9b00-2c385ee08e21.png) </div>
 
 
 In addition to the counter, I created two buttons that can increase and decrease the value. I realised also a "reset button" that turns the counter value to zero.
